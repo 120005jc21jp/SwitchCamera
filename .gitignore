@@ -1,1 +1,11 @@
-
+EmptyProject/EmptyProject.csproj
+EmptyProject/EmptyProject.sln
+EmptyProject/Library/
+EmptyProject/.vsconfig
+EmptyProject/Assembly-CSharp.csproj
+EmptyProject/Logs/Packages-Update.log
+EmptyProject/Temp/
+EmptyProject/Logs/
+EmptyProject/UserSettings/
+EmptyProject/obj/
+EmptyProject/.vs/
